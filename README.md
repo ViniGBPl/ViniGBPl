@@ -24,7 +24,7 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
         />
     </a>
 
-   <a href="https://www.instagram.com/seuusuario/">
+   <a href="https://www.instagram.com/vinicius.gabrielss?igsh=MXA0dWlxY3Flcm5jNQ==">
         <img 
             alt="Instagram" 
             title="Me siga no Instagram" 
