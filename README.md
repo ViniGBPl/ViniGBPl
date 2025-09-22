@@ -16,7 +16,7 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
         />
    </a>
 
-   <a href="www.linkedin.com/in/vinicius-gp-lima">
+   <a href="https://www.linkedin.com/in/vinicius-gp-lima">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
