@@ -162,4 +162,5 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
 
 ![snake gif](https://github.com/ViniGBPl/ViniGBPl/blob/output/github-contribution-grid-snake.svg)
 
-[![readme].(https://github-readme-stats.vercel.app/api/pin/?ViniGBPl=your ViniGBPl&ViniGBPl=your ViniGBPl&theme=react)].(https://github.com/ViniGBPl/ViniGBPl).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniGBPl&repo=ViniGBPl&theme=react)](https://github.com/ViniGBPl/ViniGBPl)
+
