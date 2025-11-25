@@ -3,7 +3,7 @@
 **`Desenvolvedor em formação | FullStack em desenvolvimento`**
 
 Me chamo Vinícius Gabriel Pereira Lima, sou estudante de Ciência da Computação na UFRPE.  
-Atualmente desenvolvo projetos acadêmicos e pessoais utilizando **Java, Kotlin, MySQL, R e Git**, com interesse em **aplicações web e mobile**, além de áreas como **Inteligência Artificial** e **Engenharia de Software**.  
+Atualmente desenvolvo projetos acadêmicos e pessoais utilizando **Java,Python, Django, Kotlin, MySQL, R e Git**, com interesse em **aplicações web e mobile**, além de áreas como **Inteligência Artificial** e **Engenharia de Software**.  
 Este repositório reúne alguns dos meus trabalhos e experiências, funcionando como meu portfólio.
 
 <p align="left">
@@ -109,6 +109,15 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <img 
