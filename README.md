@@ -152,7 +152,7 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
 <br/>
 <br/>
 
-<!--
+
 ### 📊 Estatísticas
 
 <p>
@@ -172,5 +172,5 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
   />
 
 </p>
--->
+
 
