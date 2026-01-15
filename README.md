@@ -153,6 +153,7 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
 <br/>
 
 
+<!--
 ### 📊 Estatísticas
 
 <p>
