@@ -113,6 +113,15 @@ Este repositório reúne alguns dos meus trabalhos e experiências, funcionando 
 
 <img 
     align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
